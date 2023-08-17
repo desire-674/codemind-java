@@ -19,5 +19,6 @@ public class we{
             hra=bs*0.3;
         }
         gs=bs+da+hra;
-        System.out.printf("%.2f",gs);}
+        System.out.printf("%.2f",gs);
+}
 }
